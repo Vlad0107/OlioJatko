@@ -1,0 +1,8 @@
+https://www.intopalo.com/blog/2014-03-28-policy-based-design/
+
+"Policies are good when you have complex project and you want to consistent behavior of classes
+in the whole system. If you find a bug in your policy, the fix is applied to all host classes without 
+further effort. Additionally, if you have a project that needs to configured differently in
+various setups, policies are great."
+
+Esim. Erilasiten kielten käyttö. Ohjelma toimii täysin samalla tavalla, mutta riippuen policysta käyttökieli vaihtuu.
